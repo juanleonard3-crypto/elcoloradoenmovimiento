@@ -1,0 +1,11 @@
+EL COLORADO EN MOVIMIENTO
+
+PROBAR EN LA COMPU
+1) Descomprimí la carpeta.
+2) Opción rápida: doble clic en index.html (Chrome). Si bloquea la cámara, usá la opción 3.
+3) Con servidor local: doble clic en probar_windows.bat (o probar_linux_mac.sh). Se abre Chrome en http://localhost:8000/index.html. Hace falta tener Python instalado.
+4) Tocá "Empezar", permití la cámara y pararte a 2 m (de la cabeza a las rodillas).
+   Sin cámara: "Jugar con teclado" (flecha arriba camina, izq/der carriles, Espacio mano, A/B/C responden).
+
+PARA SUBIR
+Subí el contenido de esta carpeta a GitHub Pages (index.html en la raíz). Pesa unos 17 MB.
